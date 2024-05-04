@@ -30,16 +30,6 @@
 - Install **mlr** using pip command: `install.packages("mlr")`
 - Install **MASS** using pip command: `install.packages("MASS")`
 
-### How to run?
-
-[![R Studio](https://img.shields.io/badge/R-clean_data.R.-lightgrey.svg?logo=R&style=social)](https://github.com/iamsivab/Stock-Market-Analysis/tree/master/src)
-
-
-### Project Reports
-
-[![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://github.com/iamsivab/Stock-Market-Analysis/)
-
-- [Download](https://github.com/iamsivab/Stock-Market-Analysis/) for the report.
 
 ### Useful Links
 
