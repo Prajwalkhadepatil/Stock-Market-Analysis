@@ -7,7 +7,7 @@
 
 #### Steps involved in this project
 
-[![Made with Python](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/iamsivab/Stock-Market-Analysis) [![Made with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/iamsivab/) [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://www.linkedin.com/in/iamsivab/)
+[![Made with Python](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/Prajwalkhadepatil/Stock-Market-Analysis) [![Made with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/iamsivab/) [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://www.linkedin.com/in/iamsivab/)
 
 #### Explanation
 
